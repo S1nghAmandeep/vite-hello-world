@@ -13,6 +13,7 @@ export default {
 <template>
   <div>
     <img src="./assets/jumbo.png" alt="">
+    <img src="/public/vite.svg" alt="">
   </div>
 </template>
 
